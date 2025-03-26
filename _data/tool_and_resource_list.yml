@@ -323,7 +323,8 @@
   id: cmake
   name: CMake
   url: https://cmake.org/
-- description: NixOS is a free and open-source Linux distribution based on the Nix package manager. It uses declarative configuration (using the Nix language) to manage packages and the entire system environment - allowing for reproducibility and portability.
+- description: "NixOS is a free and open-source Linux distribution based on the Nix package manager. 
+  It uses declarative configuration (using the Nix language) to manage packages and the entire system environment - allowing for reproducibility and portability."
   id: nixos
   name: NixOS
   url: https://nixos.org/
@@ -395,7 +396,7 @@
   id: pep8
   name: PEP8
   url: https://peps.python.org/pep-0008/
-- description: Google's R code style guide
+- description: Google’s R code style guide
   id: r-language-style-guide
   name: R Style Guide
   url: https://google.github.io/styleguide/Rguide.html
@@ -405,7 +406,7 @@
   url: https://en.wikipedia.org/wiki/Lint_%28software%29
 - description: Style guidelines used for Google code
   id: google-programming-style-guide
-  name: Google's programming style guide
+  name: Google’s programming style guide
   url: https://google.github.io/styleguide/
 - description: Free Python Integrated Development Environment (IDE) for application, data science and web development
   id: pycharm
