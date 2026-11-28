@@ -249,35 +249,6 @@
         url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11216562&tag=1
     status: Active
     version: 1.0.0
--   abbreviation: dependency_management
-    author:
-        '@type': Person
-        name: Faruk Diblen
-    contact:
-        '@type': Person
-        name: Faruk Diblen
-    created: 03-04-2025
-    description: Reviews how external libraries and dependencies are managed to ensure
-        compatibility and security.
-    identifier:
-        '@id': https://w3id.org/everse/i/indicators/dependency_management
-    keywords:
-    - sustaninability
-    - dependencies
-    name: Software has dependency management solution
-    qualityDimension:
-    -   '@id': https://w3id.org/everse/i/dimensions/sustainability
-    -   '@id': https://w3id.org/everse/i/dimensions/security
-    -   '@id': https://w3id.org/everse/i/dimensions/compatibility
-    source:
-    -   identifier: https://zenodo.org/record/14852424
-        name: 'Software Quality Indicators from BioHackathon 2024 (Sheet: Sustanability,
-            Row: Su7)'
-        url: https://zenodo.org/records/14852424/files/Software%20Quality%20Indicators.xlsx
-    -   name: RSMD checklist
-        url: https://fair-impact.github.io/RSMD-guidelines/8.rsmd_checklist/
-    status: Active
-    version: 1.0.0
 -   abbreviation: descriptive_metadata
     alternateName: FRSM-06
     author:
